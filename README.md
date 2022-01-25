@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ange1Code
+- 👀 I’m interested in learning everytinh there is to now about writing the best secure online platforms
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on medical software solutions
+- 📫 How to reach me angelica@imemed.co.za
